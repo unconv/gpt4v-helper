@@ -1,0 +1,4 @@
+screeninfo
+openai
+pynput
+pillow
